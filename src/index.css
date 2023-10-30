@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Single+Day:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500;600;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    width: 1728px;
+    height: 1117px;
+    background: #000;
+}
+
+
